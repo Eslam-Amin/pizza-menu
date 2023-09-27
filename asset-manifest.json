@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eslam-Amin/pizza-menu/static/css/main.5a369990.css",
+    "main.js": "/Eslam-Amin/pizza-menu/static/js/main.f2468cb5.js",
+    "index.html": "/Eslam-Amin/pizza-menu/index.html",
+    "main.5a369990.css.map": "/Eslam-Amin/pizza-menu/static/css/main.5a369990.css.map",
+    "main.f2468cb5.js.map": "/Eslam-Amin/pizza-menu/static/js/main.f2468cb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a369990.css",
+    "static/js/main.f2468cb5.js"
+  ]
+}
